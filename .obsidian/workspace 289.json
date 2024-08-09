@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "9d16ea0029d0600d",
+    "type": "split",
+    "children": [
+      {
+        "id": "27c2346244224d11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1f32259ebf1350b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f2b3934905adedc",
+    "type": "split",
+    "children": [
+      {
+        "id": "57e8b9a547e07676",
+        "type": "tabs",
+        "dimension": 73.53535353535354,
+        "children": [
+          {
+            "id": "1cb8773bc67bd188",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bce2b21a999883b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "리코타",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2015f0fdab8378d6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "819e0f439b8161e1",
+        "type": "tabs",
+        "dimension": 26.464646464646464,
+        "children": [
+          {
+            "id": "b7cb3b12320664f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0e32ec9ab3ff84b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f00c107e3f4ff4fe",
+        "type": "tabs",
+        "dimension": 54.924874791318864,
+        "children": [
+          {
+            "id": "7a90dcaeb8f61215",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "017115476d116e97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbf9ece2e339cf10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ac4160ee0f76a97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ddb400d846445066",
+        "type": "tabs",
+        "dimension": 45.075125208681136,
+        "children": [
+          {
+            "id": "2e9b5179ee7e2152",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "templater-obsidian:Templater": false,
+      "kr-book-info-plugin:Add Book Info": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-projects:Open projects": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "c1f32259ebf1350b",
+  "lastOpenFiles": [
+    "Home.md",
+    "Template/Project Test_Template.md",
+    "Project Test/16_Timstamp Notes 플러그인.md",
+    "Project Test",
+    "3. Resources/Obsidian/옵시디언 사용법 A to Z/12. 유튜브로 생산성 높이지, 옵시디언 지식 관리하기, 로컬 비디오.md",
+    "Template/Quarterly_Note Template.md",
+    "폴더 A/2024-07-18.md",
+    "Template/Daily_Note Template.md",
+    "3. Resources/cook/유청활용법.md",
+    "10. Planner/11. Daily/2024/07/24-07-18 Thursday.md",
+    "3. Resources/cook",
+    "10. Planner/11. Daily/2024/07/24-07-17 Wednesday.md",
+    "todoist-backup-2024717125536.json",
+    "10. Planner/11. Daily/2024/07/24-07-19 Friday.md",
+    "10. Planner/11. Daily/2024/07/24-07-21 Sunday.md",
+    "10. Planner/11. Daily/2024/07/24-07-20 Saturday.md"
+  ]
+}

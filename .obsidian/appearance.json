@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "textFontFamily": "나눔고딕,하늘보리체 TTF",
+  "interfaceFontFamily": "나눔고딕,하늘보리체 TTF",
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
+}

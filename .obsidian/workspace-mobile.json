@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "a842ed0e0087a07e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b17479ce77b7c7db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "480be7965846f351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "105a2d23500951c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24. 08. 07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53965fed337d6eab",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d79d33bde523dc8b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "25786ff2f177e17b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3df500cb423ff2da",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e041c2252192d923",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "dec6377813b98c98",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "56f4e629034510b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "201eed5292377fbc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "24. 08. 07.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "2940c396dfc1382b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "24. 08. 07.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c8754a8a787368a8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "24. 08. 07.md"
+          }
+        }
+      },
+      {
+        "id": "89b0dfe3d53706bd",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-projects:Open projects": false,
+      "translate:Open translation view": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "kr-book-info-plugin:Add Book Info": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "105a2d23500951c4",
+  "lastOpenFiles": [
+    "Home.md",
+    "24. 08. 07.md",
+    "70. Q.T/71. 매일성경",
+    "70. Q.T",
+    "Project Test",
+    "Template/Project Test_Template.md",
+    "10. Planner/11. Daily/2024/07/24-07-21 Sunday.md",
+    "Template/Monthly_Note Template.md",
+    "10. Planner/13. Monthly/2024/24-08.md",
+    "10. Planner/13. Monthly/2024/24-07.md",
+    "10. Planner/15. Yearly/2024.md",
+    "10. Planner/13. Monthly/2024",
+    "10. Planner/11. Daily/2024/07/24-07-18 Thursday.md",
+    "Daily/2024/06/24-06-02 Sunday.md",
+    "Daily/2024/06/24-06-03 Monday.md",
+    "4. Archives/Health/지방 잘 쓰는 건강한 몸 만들기.md",
+    "4. Archives/IT/ffmpeg install in wsl.md",
+    "4. Archives/IT",
+    "Daily/2024/05/24-05-29 Wednesday.md",
+    "4. Archives/Collect/요리 레시피.md",
+    "Daily/2024/05/24-05-18 Saturday.md",
+    "4. Archives/비주얼신 복지몰.md",
+    "Daily/2024/05/24-05-14 Tuesday.md",
+    "4. Archives/Collect/공부가 정말 싫을 때 이 글을 봐야합니다..md",
+    "Daily/2024/05/24-05-14 화요일.md",
+    "4. Archives/Collect/items.md",
+    "Daily/2024/05/24-05-09 Thursday.md",
+    "Daily/2024/05/24-05-07 Tuesday.md",
+    "Template/Prayer.md",
+    "Daily/2024/03/24-03-31 Sunday.md",
+    "Daily/2024/03/24-03-30 Saturday.md",
+    "Daily/2024/04",
+    "Daily/2024/02",
+    "1. Project/IT Tech/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Images/Pasted image 20231021223420.png",
+    "1. Project/IT Tech/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Images/Pasted image 20231021223517.png",
+    "1. Project/IT Tech/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Part1. 대용량  처리를 위한 SQL이해",
+    "1. Project/IT Tech/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Images",
+    "1. Project/IT Tech/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의",
+    "1. Project/Education/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Images/Pasted image 20231021223420.png",
+    "1. Project/Education/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Images/Pasted image 20231021223517.png",
+    "3. Resources/Second Brain/Images/PARA_Definitions.jpg",
+    "3. Resources/Second Brain/Images/PARA.png",
+    "3. Resources/Second Brain/Images/Pasted image 20231013125326.jpg",
+    "3. Resources/Second Brain/Images/Pasted image 20231013125146.jpg",
+    "3. Resources/Second Brain/Images/Pasted image 20231013124641.jpg",
+    "3. Resources/Second Brain/Images/Pasted image 20231013124141.jpg",
+    "Untitled.canvas"
+  ]
+}

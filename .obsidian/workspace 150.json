@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "43545fcd621f44a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8a34dd90d72cd01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "191d7366cbabb17b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/02/24-02-21 Wednesday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb2815b1ec551a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/02/24-02-22 Thursday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8850013a6d2814c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/02/24-02-26 Monday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6d06c270f62125c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea950ffae3e1bf07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "816a526903fd6848",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5eeb1e683d5203dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "face9a46808c3ad7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa217e777a7e5fc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa3bb9ce6666e01c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4f8495a787d57a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024/02/24-02-22 Thursday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "645ef0fcf43de65f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024/02/24-02-22 Thursday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbc38647ca11b3cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e139d1d4eeee38f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2024/02/24-02-22 Thursday.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "bb2815b1ec551a65",
+  "lastOpenFiles": [
+    "Daily/2024/02/24-02-26 Monday.md",
+    "Daily/2024/02/24-02-23 Friday.md",
+    "Daily/2024/02/24-02-22 Thursday.md",
+    "4. Archives/Collect/items.md",
+    "Daily/2024/02/24-02-21 Wednesday.md",
+    "Daily/2024/02/24-02-20 Tuesday.md",
+    "4. Archives/Collect/무제 파일.md",
+    "4. Archives/Collect/Instargram.md",
+    "Daily/2024/02/24-02-19 Monday.md",
+    "Daily/2024/02/24-02-20 화요일.md"
+  ]
+}

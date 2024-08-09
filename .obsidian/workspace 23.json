@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "9d6912e891fff3b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ac9cf006bec49cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "341b6f7d08f3aad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Archives/무제 파일.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f461ed1bba6c41fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fde5ee309629f3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9519f26c9d9ecd7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d018918a269d32c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31e405937e5b1032",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2d0b1464b59d5f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "94e7539fe7ee58e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "850067c482b3e1c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Archives/무제 파일.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "280ec17423c2d254",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Archives/무제 파일.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8f3616e9dcd14eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f8572117969b5cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Archives/무제 파일.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "341b6f7d08f3aad8",
+  "lastOpenFiles": [
+    "Daily/2023/11/23-11-10 금요일.md",
+    "Template/Prayer.md",
+    "1. Project/IT Tech/Game/Unity IAP/참고 자료 블로그.md",
+    "4. Archives/Instargram.md",
+    "4. Archives/무제 파일.md",
+    "Daily/2023/11/23-11-10 Friday.md",
+    "Daily/2023/11/23-11-08 Wednesday.md",
+    "Daily/2023/11/23-11-05 Sunday.md",
+    "Daily/2023/11/23-11-07 Tuesday.md",
+    "Daily/2023/10/23-10-24 Tuesday.md",
+    "1. Project/IT Tech/Game/Unity IAP",
+    "Daily/2023/11/4"
+  ]
+}

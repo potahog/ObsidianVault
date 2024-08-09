@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "24f38de4178c2919",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5b5cf3beb9cb01c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed16723df6ae5e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/IT Tech/Nomadcoder/Twitter Clone/Twitter Clone.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ab55d06d97b579f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Archives/Collect/Instargram.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d80b7937c8af5074",
+    "type": "split",
+    "children": [
+      {
+        "id": "688b829cee33ffd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac7f5bbdda02dafc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf62746a2454a068",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af05e29ed9c8eb09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7eeec7631b88d5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "452d4ccd4825f5c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd830698302989a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Project/IT Tech/Nomadcoder/Twitter Clone/Twitter Clone.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0298bda62012d6f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Project/IT Tech/Nomadcoder/Twitter Clone/Twitter Clone.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "931a9f3b0e2c29bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "060abbd6dd288c48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Project/IT Tech/Nomadcoder/Twitter Clone/Twitter Clone.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "ed16723df6ae5e14",
+  "lastOpenFiles": [
+    "3. Resources/IT Tech/OpenSSL/Windows.md",
+    "3. Resources/IT Tech/OpenSSL/Openssl.md",
+    "3. Resources/IT Tech/OpenSSL",
+    "Daily/2024/01/24-01-12 Friday.md",
+    "Daily/2024/01/24-01-11 Thursday.md",
+    "4. Archives/Collect/Instargram.md",
+    "Daily/2024/01/24-01-10 Wednesday.md",
+    "Daily/2024/01/24-01-11 목요일.md"
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Inbox",
+  "automaticSynchronizationInterval": 30,
+  "todoistTasksData": {
+    "projects": [
+      {
+        "id": "2336377076",
+        "parentId": null,
+        "order": 0,
+        "color": "charcoal",
+        "name": "Inbox",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": true,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2336377076",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2336377088",
+        "parentId": null,
+        "order": 1,
+        "color": "charcoal",
+        "name": "자택 🏡",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2336377088",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2336377251",
+        "parentId": null,
+        "order": 2,
+        "color": "charcoal",
+        "name": "test",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2336377251",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2336377255",
+        "parentId": null,
+        "order": 3,
+        "color": "charcoal",
+        "name": "테스트",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2336377255",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2336437274",
+        "parentId": null,
+        "order": 4,
+        "color": "charcoal",
+        "name": "personal",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2336437274",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2336437277",
+        "parentId": null,
+        "order": 5,
+        "color": "charcoal",
+        "name": "work",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2336437277",
+        "viewStyle": "list"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "8212581815",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2336377076",
+        "sectionId": null,
+        "parentId": null,
+        "order": 5,
+        "content": "테스트11",
+        "description": "[폴더 A/2024-07-18.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/2024-07-18.md)",
+        "isCompleted": false,
+        "labels": [
+          "test",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "49931345",
+        "createdAt": "2024-07-17T03:59:39.621198Z",
+        "due": {
+          "date": "2024-07-16",
+          "timezone": "Asia/Seoul",
+          "string": "2024-07-17 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-07-16T23:00:00Z"
+        },
+        "url": "https://todoist.com/app/task/8212581815",
+        "duration": null,
+        "path": "폴더 A/2024-07-18.md"
+      },
+      {
+        "id": "8212584976",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2336377076",
+        "sectionId": null,
+        "parentId": null,
+        "order": 7,
+        "content": "개인 할 일",
+        "description": "[폴더 A/2024-07-18.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/2024-07-18.md)",
+        "isCompleted": false,
+        "labels": [
+          "personal",
+          "todoist"
+        ],
+        "priority": 4,
+        "commentCount": 0,
+        "creatorId": "49931345",
+        "createdAt": "2024-07-17T04:02:19.268890Z",
+        "due": {
+          "date": "2024-07-16",
+          "timezone": "Asia/Seoul",
+          "string": "2024-07-17 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-07-16T23:00:00Z"
+        },
+        "url": "https://todoist.com/app/task/8212584976",
+        "duration": null,
+        "path": "폴더 A/2024-07-18.md"
+      },
+      {
+        "id": "8212582218",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2336377076",
+        "sectionId": null,
+        "parentId": null,
+        "order": 6,
+        "content": "테스트12  #테스트",
+        "description": "[폴더 A/2024-07-18.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/2024-07-18.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "49931345",
+        "createdAt": "2024-07-17T03:59:59.462071Z",
+        "due": {
+          "date": "2024-07-16",
+          "timezone": "Asia/Seoul",
+          "string": "2024-07-17 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-07-16T23:00:00Z"
+        },
+        "url": "https://todoist.com/app/task/8212582218",
+        "duration": null,
+        "path": "폴더 A/2024-07-18.md"
+      },
+      {
+        "id": "8212579377",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2336377076",
+        "sectionId": null,
+        "parentId": null,
+        "order": 3,
+        "content": "테스트 link",
+        "description": "[폴더 A/2024-07-18.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/2024-07-18.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "49931345",
+        "createdAt": "2024-07-17T03:57:44.820274Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8212579377",
+        "duration": null,
+        "path": "폴더 A/2024-07-18.md"
+      },
+      {
+        "id": "8212579782",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2336377076",
+        "sectionId": null,
+        "parentId": null,
+        "order": 4,
+        "content": "테스트1",
+        "description": "[폴더 A/2024-07-18.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/2024-07-18.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "49931345",
+        "createdAt": "2024-07-17T03:58:03.177133Z",
+        "due": {
+          "date": "2024-07-16",
+          "timezone": "Asia/Seoul",
+          "string": "2024-07-17 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-07-16T23:00:00Z"
+        },
+        "url": "https://todoist.com/app/task/8212579782",
+        "duration": null,
+        "path": "폴더 A/2024-07-18.md"
+      },
+      {
+        "id": "8212583111",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2336377076",
+        "sectionId": null,
+        "parentId": "8212582218",
+        "order": 1,
+        "content": "하위 일",
+        "description": "[폴더 A/2024-07-18.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/2024-07-18.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "49931345",
+        "createdAt": "2024-07-17T04:00:42.517295Z",
+        "due": {
+          "date": "2024-07-16",
+          "timezone": "Asia/Seoul",
+          "string": "2024-07-17 08:00",
+          "lang": "en",
+          "isRecurring": false,
+          "datetime": "2024-07-16T23:00:00Z"
+        },
+        "url": "https://todoist.com/app/task/8212583111",
+        "duration": null,
+        "path": "폴더 A/2024-07-18.md"
+      }
+    ],
+    "events": [
+      {
+        "event_date": "2024-07-17T03:58:08.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트1",
+          "due_date": "2024-07-16T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 24712473979,
+        "id": 24626161953,
+        "initiator_id": null,
+        "object_id": "8212579782",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2336377076"
+      },
+      {
+        "event_date": "2024-07-17T03:55:12.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "자택 🏡",
+          "note_count": 0
+        },
+        "extra_data_id": 24712459884,
+        "id": 24626147857,
+        "initiator_id": null,
+        "object_id": "2336377088",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-07-17T03:54:45.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "Inbox",
+          "note_count": 0
+        },
+        "extra_data_id": 24712457688,
+        "id": 24626145666,
+        "initiator_id": null,
+        "object_id": "2336377076",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-07-17T04:02:41.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "개인 할 일",
+          "due_date": "2024-07-16T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 24712495679,
+        "id": 24626183651,
+        "initiator_id": null,
+        "object_id": "8212584976",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2336377076"
+      },
+      {
+        "event_date": "2024-07-17T04:01:32.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "하위 일",
+          "due_date": "2024-07-16T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 24712490504,
+        "id": 24626178474,
+        "initiator_id": null,
+        "object_id": "8212583111",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2336377076"
+      },
+      {
+        "event_date": "2024-07-17T04:01:32.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "하위 일",
+          "last_content": "하위 할 일",
+          "note_count": 0
+        },
+        "extra_data_id": 24712489691,
+        "id": 24626177662,
+        "initiator_id": null,
+        "object_id": "8212583111",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2336377076"
+      },
+      {
+        "event_date": "2024-07-17T04:00:11.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트12  #테스트",
+          "due_date": "2024-07-16T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 24712483668,
+        "id": 24626171645,
+        "initiator_id": null,
+        "object_id": "8212582218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2336377076"
+      },
+      {
+        "event_date": "2024-07-17T03:59:42.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트11",
+          "due_date": "2024-07-16T23:00:00.000000Z",
+          "last_due_date": null,
+          "note_count": 0
+        },
+        "extra_data_id": 24712481210,
+        "id": 24626169183,
+        "initiator_id": null,
+        "object_id": "8212581815",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2336377076"
+      },
+      {
+        "event_date": "2024-07-17T04:00:17.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/6340",
+          "name": "테스트",
+          "note_count": 0
+        },
+        "extra_data_id": 24712484051,
+        "id": 24626172022,
+        "initiator_id": null,
+        "object_id": "2336377255",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-07-17T04:00:12.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/6340",
+          "name": "test",
+          "note_count": 0
+        },
+        "extra_data_id": 24712483469,
+        "id": 24626171441,
+        "initiator_id": null,
+        "object_id": "2336377251",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-07-18T03:29:18.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/6350",
+          "last_name": "Personal",
+          "name": "personal",
+          "note_count": 0
+        },
+        "extra_data_id": 24723803580,
+        "id": 24637491452,
+        "initiator_id": null,
+        "object_id": "2336437274",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-07-18T03:29:10.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/6350",
+          "name": "work",
+          "note_count": 0
+        },
+        "extra_data_id": 24723803001,
+        "id": 24637490873,
+        "initiator_id": null,
+        "object_id": "2336437277",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-07-18T03:28:56.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/6350",
+          "name": "Personal",
+          "note_count": 0
+        },
+        "extra_data_id": 24723801933,
+        "id": 24637489805,
+        "initiator_id": null,
+        "object_id": "2336437274",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-07-18T03:40:37.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "하위 일",
+          "description": "[폴더 A/2024-07-18.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/2024-07-18.md)",
+          "last_description": "[폴더 A/Todoist.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/Todoist.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 24723856310,
+        "id": 24637544186,
+        "initiator_id": null,
+        "object_id": "8212583111",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2336377076"
+      },
+      {
+        "event_date": "2024-07-18T03:40:37.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트12  #테스트",
+          "description": "[폴더 A/2024-07-18.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/2024-07-18.md)",
+          "last_description": "[폴더 A/Todoist.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/Todoist.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 24723856303,
+        "id": 24637544174,
+        "initiator_id": null,
+        "object_id": "8212582218",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2336377076"
+      },
+      {
+        "event_date": "2024-07-18T03:40:37.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트 link",
+          "description": "[폴더 A/2024-07-18.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/2024-07-18.md)",
+          "last_description": "[폴더 A/Todoist.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/Todoist.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 24723856265,
+        "id": 24637544135,
+        "initiator_id": null,
+        "object_id": "8212579377",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2336377076"
+      },
+      {
+        "event_date": "2024-07-18T03:40:37.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "개인 할 일",
+          "description": "[폴더 A/2024-07-18.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/2024-07-18.md)",
+          "last_description": "[폴더 A/Todoist.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/Todoist.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 24723856239,
+        "id": 24637544108,
+        "initiator_id": null,
+        "object_id": "8212584976",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2336377076"
+      },
+      {
+        "event_date": "2024-07-18T03:40:36.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트1",
+          "description": "[폴더 A/2024-07-18.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/2024-07-18.md)",
+          "last_description": "[폴더 A/Todoist.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/Todoist.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 24723856230,
+        "id": 24637544101,
+        "initiator_id": null,
+        "object_id": "8212579782",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2336377076"
+      },
+      {
+        "event_date": "2024-07-18T03:40:36.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트11",
+          "description": "[폴더 A/2024-07-18.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/2024-07-18.md)",
+          "last_description": "[폴더 A/Todoist.md](obsidian://open?vault=potahog&file=%ED%8F%B4%EB%8D%94%20A/Todoist.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 24723856203,
+        "id": 24637544073,
+        "initiator_id": null,
+        "object_id": "8212581815",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2336377076"
+      }
+    ]
+  },
+  "fileMetadata": {
+    "폴더 A/2024-07-18.md": {
+      "todoistTasks": [
+        "8212579377",
+        "8212579782",
+        "8212581815",
+        "8212582218",
+        "8212583111",
+        "8212584976"
+      ],
+      "todoistCount": 6
+    }
+  },
+  "enableFullVaultSync": false,
+  "statistics": {},
+  "debugMode": false,
+  "todoistAPIToken": "3e49cd94e7f354356653d054592d9e619a146f40"
+}

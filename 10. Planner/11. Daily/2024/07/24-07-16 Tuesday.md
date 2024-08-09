@@ -1,0 +1,85 @@
+---
+date_daily: 24-07-16
+emotion: 
+tags:
+  - daily
+daily_review: 
+important_date: false
+achievement: 
+reading_book: 
+reading_page: 10
+exercise: false
+---
+❮ [[2024|2024년]] / [[24-07|07월]] / [[24-W29|29주]] ❯
+❮❮ [[24-07-15 Monday|2024-07-15(Mon)]] | 24-07-16 Tuesday|2024-07-16(Tue) | [[24-07-17 Wednesday|2024-07-17(Wed)]] ❯❯
+
+Error generating daily quote
+
+## 내일 기억할 일
+-
+## 오늘 기억할 일
+없습니다😄
+
+## 아침
+### 오늘의 확언
+-
+### 오늘의 목표
+- [ ] 
+### 할 일 추가하기
+- [ ] 
+- [ ] 
+
+## 오늘 끝내야 할 일
+```tasks
+due on or before 24-07-16
+filter by function task.file.folder.incluldes("10. Planner")
+filter by function !task.file.folder.incluldes("Template")
+not done
+sort by priority
+```
+### 업무 할일
+```tasks
+tag include #업무
+```
+### 개인 할일
+```tasks
+tag include #개인 
+```
+
+### 반복 할 일
+```tasks
+is recurring
+not done
+has tags
+```
+
+### 언젠가 할 일
+```tasks
+no due date
+not done
+description regex does not match /^$/
+```
+
+### 오늘 완료한 일
+```tasks
+done 24-07-16
+```
+
+## 독서
+- 읽은 책
+- 읽은 페이지
+
+## 운동
+- 
+
+## 하루 마무리
+### 오늘 매운 것들
+- 
+- 
+### 오늘 감사한 일
+>[!note]
+>
+### 일기
+
+## 오늘 작성한 노트
+## 오늘 수정한 노트

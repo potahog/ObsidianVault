@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "cc050d32626d8330",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f6de587896385ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf76fcf36e435500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/IT Tech/DEVOPS란 - netappblog.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca83f2abc0ee1546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Second Brain/CODE/CODE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db805a0efb69ff3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Second Brain/P.A.R.A/P.A.R.A.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a1da4ffa83e2be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Obsidian/Build Plugin/Getting Started/무제 파일.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94ab054c1ea2095c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/IT Tech/Game/Unity IAP/참고 자료 블로그.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0003c09c663b0258",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "eed38c836ab41267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Prayer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0363b6e6b3a03672",
+    "type": "split",
+    "children": [
+      {
+        "id": "00e6216e1db054fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00655ab37d9e964d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8742af62f63cea87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "대용",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85e223af72d2c667",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0baf8b2c4356a3b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eca1562c859b783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a4209b1198c4e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98e070fa04c62ed4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e31097358441f02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a2e7f3426385377",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "0003c09c663b0258",
+  "lastOpenFiles": [
+    "Template/Prayer.md",
+    "Template/Dailty Template.md",
+    "Daily/2024/01/24-01-09 Tuesday.md",
+    "Daily/2024/01/24-01-10 Wednesday.md",
+    "Daily/2024/01/24-01-02 Tuesday.md",
+    "Daily/2024/01/24-01-08 Monday.md",
+    "Daily/2024/01/24-01-03 Wednesday.md",
+    "Daily/2024/01/24-01-04 Thursday.md",
+    "Daily/2024/01/24-01-05 Friday.md",
+    "Daily/2024/01/24-01-07 Sunday.md",
+    "Daily/2024/01/24-01-08 월요일.md",
+    "Daily/2024/01/24-01-05 금요일.md",
+    "1. Project/Education/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Part1. 대용량  처리를 위한 SQL이해/Ch 03. MySQL소개.md",
+    "1. Project/Education/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Part1. 대용량  처리를 위한 SQL이해/Ch 2. 대용량 시스템에 대한 이해.md",
+    "Pasted image 20240105130458.png",
+    "1. Project/Education/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Part1. 대용량  처리를 위한 SQL이해/Ch 1. 대용량 이해.md",
+    "1. Project/Education/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/백엔드 개발자를 위한 한 번에 끝내는 대용량 데이터 N 트래픽 처리 초격차.md",
+    "Excalidraw/Drawing 2024-01-05 12.40.19.excalidraw.md",
+    "1. Project/IT Tech/Game/Unity IAP/참고 자료 블로그.md",
+    "Excalidraw",
+    "1. Project/IT Tech/Build App Task Management.md",
+    "2. Area/IT Tech Education/Web/Back-end/DB/MariaDB (Replacement MySql).md",
+    "3. Resources/Obsidian/Build Plugin/Getting Started/무제 파일.md",
+    "3. Resources/Obsidian/Build Plugin/무제 폴더/무제 폴더",
+    "3. Resources/Obsidian/Build Plugin/Getting Started",
+    "3. Resources/Obsidian/Build Plugin/Obsidian Plugin.md",
+    "3. Resources/Obsidian/Build Plugin",
+    "3. Resources/Obsidian/무제 파일.md",
+    "3. Resources/Second Brain/P.A.R.A/P.A.R.A.md",
+    "Daily/2024/01/24-01-04 목요일.md",
+    "Template/Restaurants Rate.md",
+    "3. Resources/Restaurants/Collect",
+    "3. Resources/Restaurants/Delicious",
+    "3. Resources/Restaurants",
+    "3. Resources/IT Tech/DRM/Collect",
+    "3. Resources/IT Tech/DRM",
+    "2. Area/IT Tech Education/CI.CD/Jenkins"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "4085f6f83b94b2e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c63eeb8740d051bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3cf845e04ec9271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Dailty Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d6fe454223af35c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf14022d33b5910c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fda813673026048",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd8d0504c2744dd5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "354bc46a8f3d9f66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3464d198b1bdf6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6a70f18594b7f0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8103ac915e82386c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Template/Dailty Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5e761d56d94b65b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Template/Dailty Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "110a6d16b3110c0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b653a8fda49fe9f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Template/Dailty Template.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "2fda813673026048",
+  "lastOpenFiles": [
+    "Daily/2023/11/23-11-02 Thursday.md",
+    "Daily/2023/11/23-11-03 Friday.md",
+    "Daily/2023/11/23-11-01 Wednesday.md",
+    "Daily/2023/11",
+    "Daily/2023/10/23-10-30 Monday.md",
+    "Daily/2023/10/23-10-31 Tuesday.md",
+    "Daily/2023/10/23-10-23 Monday.md",
+    "Daily/2023/10/23-10-29  Sunday.md",
+    "Daily/2023/10/23-10-26 Thursday.md",
+    "Daily/2023/10/23-10-25 Wednesday.md",
+    "Daily/2023/10/23-10-22 Sunday.md",
+    "Daily/2023/10/23-10-24 Tuesday.md",
+    "Daily/2023/10/23-10-21 Saturday.md",
+    "Daily/2023/10/23-10-20 Friday.md",
+    "Daily/2023/10/23-10-19 목요일.md",
+    "Daily/2023/10",
+    "Daily/2023/4th/11/23-11-03 Friday.md",
+    "Template/Prayer.md",
+    "3. Resources/Novel/Setting",
+    "3. Resources/Novel",
+    "Daily/2023/4th/11/23-11-02 Thursday.md",
+    "Template/Dailty Template.md",
+    "Daily/2023/4th/11/23-11-01 Wednesday.md",
+    "Daily/2023/4/11/23-11-01 수요일.md",
+    "Daily/2023/4/11",
+    "Daily/2023/4",
+    "Daily/2023/4th/10/23-10-26 Thursday.md",
+    "Daily/2023/4th/10/23-10-25 Wednesday.md",
+    "Daily/2023/4th/10/23-10-24 Tuesday.md",
+    "Daily/2023/4th/10/23-10-23 Monday.md",
+    "Daily/2023/4th/10/23-10-21 Saturday.md",
+    "Daily/2023/4th/10/23-10-22 Sunday.md",
+    "Daily/2023/4th/10",
+    "Daily/2023/4th",
+    "Template/무제 폴더",
+    "Daily/2023/10/4",
+    "3. Resources/Second Brain/Images/Pasted image 20231013125326.jpg",
+    "3. Resources/Second Brain/Images/Pasted image 20231013125146.jpg",
+    "3. Resources/Second Brain/Images/Pasted image 20231013124820.jpg",
+    "3. Resources/Second Brain/Images/Pasted image 20231013124641.jpg",
+    "3. Resources/Second Brain/Images/Pasted image 20231013124141.jpg",
+    "Pasted image 20231013125326.jpg",
+    "Pasted image 20231013125146.jpg",
+    "Pasted image 20231013124820.jpg",
+    "Pasted image 20231013124641.jpg",
+    "Pasted image 20231013124141.jpg"
+  ]
+}

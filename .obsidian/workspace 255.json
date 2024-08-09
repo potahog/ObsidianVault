@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "6c272561fea4325b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f991d30e77b5853",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "472ac9b8b439655d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Obsidian/코딩 공부 기록, 옵시디언에 깔끔하게 정리하기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48ab6d546c7baf84",
+    "type": "split",
+    "children": [
+      {
+        "id": "39f815aae4f71936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "729cfe6a1518abda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "918b2aa9b9877b3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83dba380c2a2005e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9a8bb34dc3859e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d7853762d40cb9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14b4acf718104146",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Resources/Obsidian/코딩 공부 기록, 옵시디언에 깔끔하게 정리하기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e059acd2a777f20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Resources/Obsidian/코딩 공부 기록, 옵시디언에 깔끔하게 정리하기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "810d3baa5334ad64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3036ddf90234fdc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Resources/Obsidian/코딩 공부 기록, 옵시디언에 깔끔하게 정리하기.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "472ac9b8b439655d",
+  "lastOpenFiles": [
+    "Daily/2024/07/24-07-04 Thursday.md",
+    "3. Resources/Obsidian/코딩 공부 기록, 옵시디언에 깔끔하게 정리하기.md"
+  ]
+}

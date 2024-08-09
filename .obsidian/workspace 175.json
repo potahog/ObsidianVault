@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "43545fcd621f44a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8a34dd90d72cd01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "191d7366cbabb17b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/03/24-03-27 Wednesday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1fb1917e36943d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/04/24-04-19 Friday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "499d3cf8c4b018cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/IT Tech/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Part1. 대용량  처리를 위한 SQL이해/Ch 1. 대용량 이해.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8850013a6d2814c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/04/24-04-25 Thursday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6d06c270f62125c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea950ffae3e1bf07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "816a526903fd6848",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5eeb1e683d5203dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "unity",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "face9a46808c3ad7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa217e777a7e5fc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa3bb9ce6666e01c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4f8495a787d57a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024/04/24-04-25 Thursday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "645ef0fcf43de65f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024/04/24-04-25 Thursday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbc38647ca11b3cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e139d1d4eeee38f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2024/04/24-04-25 Thursday.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "templates:템플릿 삽입": false
+    }
+  },
+  "active": "b8850013a6d2814c",
+  "lastOpenFiles": [
+    "Daily/2024/04/24-04-24 Wednseday.md",
+    "Daily/2024/04/24-04-25 Thursday.md",
+    "Daily/2024/04/24-04-23 Tuseday.md",
+    "Daily/2024/04/24-04-22 Monday.md",
+    "Daily/2024/04/24-04-19 Friday.md",
+    "3. Resources/IT Tech/Back-end/Docker/1. Docker 설치.md",
+    "3. Resources/IT Tech/Back-end/Docker/0. Docker.md",
+    "4. Archives/Collect/Instargram.md",
+    "1. Project/IT Tech/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Part1. 대용량  처리를 위한 SQL이해/Ch 1. 대용량 이해.md",
+    "무제 파일.md",
+    "Daily/2024/03/24-03-27 Wednesday.md",
+    "Pasted image 20240105130458.png",
+    "Daily/2024/04/24-04-18 Thursday.md",
+    "Daily/2024/04/24-04-02 Tuesday.md",
+    "1. Project/IT Tech/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Part1. 대용량  처리를 위한 SQL이해/Ch 2. 대용량 시스템에 대한 이해.md",
+    "1. Project/IT Tech/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Part1. 대용량  처리를 위한 SQL이해/Ch 03. MySQL소개.md",
+    "1. Project/IT Tech/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/Part1. 대용량  처리를 위한 SQL이해/Ch 04. SNS 모델링으로 배우는 정규화, 비정규화.md",
+    "1. Project/IT Tech/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/백엔드 개발자를 위한 한 번에 끝내는 대용량 데이터 N 트래픽 처리 초격차.md",
+    "03._대용량_스스템_아키텍처_맛보기.md",
+    "Daily/2024/04/24-04-17 Wednseday.md",
+    "Daily/2024/03/24-03-22 Friday.md",
+    "Daily/2024/04/24-04-15 Monday.md",
+    "Daily/2024/04/24-04-01 Monday.md",
+    "Template/Prayer.md",
+    "Daily/2024/03/24-03-31 Sunday.md",
+    "Daily/2024/04/24-04-01 월요일.md",
+    "Daily/2024/03/24-03-30 Saturday.md",
+    "무제 파일.canvas"
+  ]
+}

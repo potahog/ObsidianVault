@@ -1,0 +1,2 @@
+educatino langchain key:
+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

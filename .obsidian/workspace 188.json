@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "01c906f7a1cbf3e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aaa81ecc5ec8d4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "097e3edf089a617b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/05/24-05-09 Thursday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cffbc3ee0b213c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Archives/Collect/items.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5ba68438c25ccc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb295d310ce92df5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e99591d3349be70a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59b0ea0b8f832309",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f01478840f992c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f373ffdb0835c7da",
+    "type": "split",
+    "children": [
+      {
+        "id": "d042a8c54829e850",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9746fcda95438bda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Archives/Collect/items.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf2cec9afde2a4e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Archives/Collect/items.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbe683ae80cffea1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3455ddd08858c1ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Archives/Collect/items.md"
+              }
+            }
+          },
+          {
+            "id": "3b20f00cd98225e9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "0cffbc3ee0b213c8",
+  "lastOpenFiles": [
+    "4. Archives/Collect/Instargram.md",
+    "4. Archives/무제 파일.md",
+    "4. Archives/아이폰 카메라 설정.md",
+    "4. Archives/Collect/유용한 사이트.md",
+    "Daily/2024/05/24-05-10 Friday.md",
+    "Daily/2024/05/24-05-09 Thursday.md",
+    "4. Archives/Collect/Plugin.md",
+    "Daily/2024/05/24-05-09 목요일.md",
+    "4. Archives/Collect/items.md",
+    "4. Archives/IP Time Info.md",
+    "Daily/2024/05/24-05-02 Thursday.md",
+    "Daily/2024/05/24-05-01 Wednseday.md",
+    "Daily/2024/04/24-04-30 Tuesday.md",
+    "Daily/2024/05"
+  ]
+}

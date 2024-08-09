@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "cc050d32626d8330",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f6de587896385ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b21af18993c8a72a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023/12/23-12-13 Wednesday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf76fcf36e435500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/IT Tech/DEVOPS란 - netappblog.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca83f2abc0ee1546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Second Brain/CODE/CODE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db805a0efb69ff3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Second Brain/P.A.R.A/P.A.R.A.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e56c67ac0d94a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Faith/위험한 결혼.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8053036653b91274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023/12/23-12-28 Thursday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94ab054c1ea2095c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/01/24-01-02 화요일.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0363b6e6b3a03672",
+    "type": "split",
+    "children": [
+      {
+        "id": "00e6216e1db054fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00655ab37d9e964d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8742af62f63cea87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85e223af72d2c667",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0baf8b2c4356a3b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eca1562c859b783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a4209b1198c4e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024/01/24-01-02 화요일.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98e070fa04c62ed4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024/01/24-01-02 화요일.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e31097358441f02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a2e7f3426385377",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2024/01/24-01-02 화요일.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "94ab054c1ea2095c",
+  "lastOpenFiles": [
+    "Daily/2024/01/24-01-02 Tuesday.md",
+    "Daily/2024/01/24-01-02 화요일.md",
+    "Daily/2023/12/23-12-27 Wednesday.md",
+    "Daily/2023/12/23-12-26 Tuesday.md",
+    "Daily/2023/12/23-12-25 Monday.md",
+    "4. Archives/Collect/무제 파일.md",
+    "4. Archives/Collect/Instargram.md",
+    "3. Resources/Faith/위험한 결혼.md",
+    "Daily/2023/12/23-12-29 Friday.md",
+    "Daily/2023/12/23-12-28 Thursday.md",
+    "무제 파일.md",
+    "Daily/2023/12/23-12-26 화요일.md",
+    "Daily/2023/12/23-12-22 Friday.md",
+    "3. Resources/IT Tech/DRM/리디북스 DRM 해제.md",
+    "Daily/2023/12/23-12-20 Wednesday.md",
+    "3. Resources/IT Tech/DRM/Collect",
+    "3. Resources/IT Tech/DRM",
+    "3. Resources/IT Tech/무제 파일.md",
+    "Daily/2023/12/23-12-21 Thursday.md",
+    "Daily/2023/12/23-12-19 Tuesday.md",
+    "Daily/2023/12/23-12-19 화요일.md",
+    "Daily/2023/12/23-12-13 Wednesday.md",
+    "4. Archives/Instargram.md",
+    "4. Archives/무제 파일.md",
+    "4. Archives/마태복음 17장.md",
+    "4. Archives/고린도전서 7장.md",
+    "3. Resources/IT Tech/Unity/Unity LIfe Cycle.md",
+    "3. Resources/IT Tech/Unity/Text Mesh Pro 한글 깨짐 문제.md",
+    "2. Area/IT Tech Education/CI.CD/Jenkins",
+    "2. Area/IT Tech Education/Game Engine/Unreal Engine",
+    "2. Area/IT Tech Education/Game Engine/Unity3D Engine",
+    "2. Area/IT Tech Education/CI.CD",
+    "Daily/2023/12",
+    "3. Resources/Game",
+    "3. Resources/IT Tech/Unity"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1720963015674,
+      "path": "Template/Daily_Note Template.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1721054755544,
+      "path": "Template/Weekly_Note Template.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1721061731841,
+      "path": "Template/Monthly_Note Template.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1721062092854,
+      "path": "Template/Quarterly_Note Template.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1721061992686,
+      "path": "Template/Yearly_Note Template.md"
+    }
+  ]
+}

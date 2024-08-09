@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "26a8a9dda1375fbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "02ff999006615b25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acd094e37a987852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/02/24-02-14 Wednesday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08659d9d63a0bb54",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f3f053cf6a91881",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8d05a6d1fbd0805",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25b1a846f7e17468",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4aa6e69507eeec83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8709f4c3a1a0c7a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "93d1fbcc4d94fc4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "721e6b55a8798a5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024/02/24-02-14 Wednesday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c996c618c5a7708",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024/02/24-02-14 Wednesday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0956d129620f57ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61c3e2c6a3f763c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2024/02/24-02-14 Wednesday.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "acd094e37a987852",
+  "lastOpenFiles": [
+    "1. Project/IT Tech/패스트 캠퍼스 백엔드 대용량 데이터 및 트래픽 강의/백엔드 개발자를 위한 한 번에 끝내는 대용량 데이터 N 트래픽 처리 초격차.md",
+    "Daily/2024/02/24-02-14 Wednesday.md",
+    "4. Archives/Collect/Instargram.md",
+    "Daily/2024/02/24-02-13 Tuesday.md",
+    "Daily/2024/02/24-02-13 화요일.md",
+    "4. Archives/한국 저출산 문제.md",
+    "4. Archives/비주얼신 복지몰.md",
+    "Daily/2024/02/24-02-06 Tuesday.md",
+    "Daily/2024/02/24-02-05 Monday.md",
+    "Daily/2024/02/24-02-01 Thursday.md",
+    "Daily/2024/02/24-02-05 월요일.md"
+  ]
+}
