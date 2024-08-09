@@ -9,7 +9,7 @@ achievement:
 reading_book: 
 reading_page: 
 exercise: false
-Quite Time: false
+QT: false
 ---
 
 <%*
